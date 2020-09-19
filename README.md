@@ -1,4 +1,2 @@
-# AndroidUtilities
-Androud utilities library built for BC
+# BillingUtilities
 
-[![](https://jitpack.io/v/jairrab/AndroidUtilities.svg)](https://jitpack.io/#jairrab/AndroidUtilities)
