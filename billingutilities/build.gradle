@@ -5,7 +5,11 @@ plugins {
 }
 
 group = 'com.github.jairrab.billingutilities'
+<<<<<<< HEAD
 version = '1.1.0'
+=======
+version = '1.0.0'
+>>>>>>> c4db0bf629e00c33dd718a7199453ffaa6662bc9
 
 android {
     compileSdkVersion 29
